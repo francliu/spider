@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.csdn.net	TRUE	/	FALSE		AU	63B
+.csdn.net	TRUE	/	FALSE	1485844887	UE	"liujianfei526@163.COM"
+.csdn.net	TRUE	/	FALSE	1485844883	UN	liujianfei526
+.csdn.net	TRUE	/	FALSE		UserInfo	1p9w3XY3WCpXN7OscfVq5wVnU7RwJoB6oDoeNn40PGVHRYZwB49MVNcoAtInJgDmr9spzwQBCuBEe3asFdldDa4gk2Vn6XhY9ZcimU%2FDJ2TmamBe2nFWFOc8Bc7wktONcCgC1QU3h1JDiMtKA6gtMA%3D%3D
+.csdn.net	TRUE	/	FALSE		UserName	liujianfei526
+.csdn.net	TRUE	/	FALSE		UserNick	liujianfei526
+.csdn.net	TRUE	/	FALSE		access-token	69135bcf-16d5-40ee-8363-6102fecbbc61
+passport.csdn.net	FALSE	/	TRUE		CASTGC	TGT-120195-FFHa6hmXyXzqoevXJefdIPAfbaZDH4RwzjOknx6envzCCiO6UD-passport.csdn.net
+passport.csdn.net	FALSE	/	FALSE		JSESSIONID	829F163967BF4312BF7C10B7362DEE23.tomcat3
+passport.csdn.net	FALSE	/	TRUE	1456900883	LSSC	LSSC-421704-T2rkKtGApolNa6Twk34Exc59TU9OFn-passport.csdn.net

@@ -1,0 +1,16 @@
+一、1.项目目录结构
+
+我们项目的名称为qt转web项目，假设我们项目的所有文件存放再~/work/web
+
+我们的目录结构如下：
+
+二、cmake文件代码
+cmake_minimum_required(VERSION2.6)
+一、1.项目目录结构
+
+我们项目的名称为qt转web项目，假设我们项目的所有文件存放再~/work/web
+
+我们的目录结构如下：
+
+二、cmake文件代码
+cmake_minimum_required(VERSION2.6)

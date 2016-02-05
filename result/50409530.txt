@@ -1,0 +1,8 @@
+上一篇博客《C&#43;&#43;11并发指南一(C&#43;&#43;11多线程初探)》中只是提到了std::thread的基本用法，并给出了一个最简单的例子，本文将稍微详细地介绍std::thread的用法。
+std::thread在&lt;thread&gt;头文件中声明，因此使用std::thread时需要包含&lt;thread&gt;头文件。
+std::thread各种构造函数例子如下（参考）：
+请看下面的例子：
+上一篇博客《C&#43;&#43;11并发指南一(C&#43;&#43;11多线程初探)》中只是提到了std::thread的基本用法，并给出了一个最简单的例子，本文将稍微详细地介绍std::thread的用法。
+std::thread在&lt;thread&gt;头文件中声明，因此使用std::thread时需要包含&lt;thread&gt;头文件。
+std::thread各种构造函数例子如下（参考）：
+请看下面的例子：

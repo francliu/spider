@@ -1,0 +1,14 @@
+Givenarange[m,n]where0&lt;=m&lt;=n&lt;=2147483647,returnthebitwiseANDofallnumbersinthisrange,inclusive.
+Forexample,giventherange[5,7],youshouldreturn4.
+Credits:
+
+Specialthanksto
+@amrsaqr
+foraddingthisproblemandcreatingalltestcases.
+Givenarange[m,n]where0&lt;=m&lt;=n&lt;=2147483647,returnthebitwiseANDofallnumbersinthisrange,inclusive.
+Forexample,giventherange[5,7],youshouldreturn4.
+Credits:
+
+Specialthanksto
+@amrsaqr
+foraddingthisproblemandcreatingalltestcases.

@@ -1,0 +1,6 @@
+参考文献:
+http://msdn.microsoft.com/zh-cn/library/aa178403(v=SQL.80).aspx
+http://www.dbsophic.com/SQL-Server-Articles/physical-join-operators-merge-operator.html
+参考文献:
+http://msdn.microsoft.com/zh-cn/library/aa178403(v=SQL.80).aspx
+http://www.dbsophic.com/SQL-Server-Articles/physical-join-operators-merge-operator.html
