@@ -20,7 +20,7 @@ class CookieLogin:
         
         self.postdata = urllib.urlencode({
                     'userName':'liujianfei526@163.com',
-                    'pwd':'919526'
+                    'pwd':''
                 })
         self.loginHeaders =  {
             'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -50,7 +50,7 @@ class CookieLogin:
                     "execution": execution,
                     "_eventId": "submit",
                     'username':'liujianfei526@163.com',
-                    'password':'407526'
+                    'password':''
                 })
         #print self.postdata
     def login(self):
